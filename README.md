@@ -24,7 +24,7 @@ This is a **responsive, animated and interactive portfolio website** built using
 
 ## 🌐 Live Demo
 
-[👉 Click here to view the live site]
+[👉 Click here to view the live site]➡️ 
 [demo](https://portfolio-using-react-eta-eight.vercel.app/)
 
 ## 📁 Installation
